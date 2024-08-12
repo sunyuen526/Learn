@@ -1,7 +1,7 @@
 ﻿#include <stdio.h>
 int  main()
 {
-    int N=1000;
+    int N=0;
 
     //printf("Hello World!");
     printf("N= ");
