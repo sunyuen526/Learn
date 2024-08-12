@@ -1,0 +1,16 @@
+﻿*.ipch
+*.tlog
+*.pdb
+*.vsidx
+*.log
+*.idb
+*.db-shm
+*.db-wal
+.vs/1-n/v17/Browse.VC.db
+.vs/1-n/v17/Browse.VC.opendb
+*.suo
+*.obj
+.vs/1-n/v17/DocumentLayout.json
+*.recipe
+*.ilk
+x64/Debug/1-n.exe
